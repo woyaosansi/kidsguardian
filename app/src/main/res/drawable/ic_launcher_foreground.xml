@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- 保护眼睛的图标 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,36 C40,36 28,46 28,54 C28,62 40,72 54,72 C68,72 80,62 80,54 C80,46 68,36 54,36 Z M54,42 C61,42 66,47 66,54 C66,61 61,66 54,66 C47,66 42,61 42,54 C42,47 47,42 54,42 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,48 C51,48 48,51 48,54 C48,57 51,60 54,60 C57,60 60,57 60,54 C60,51 57,48 54,48 Z" />
+</vector>
