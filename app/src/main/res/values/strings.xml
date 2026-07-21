@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">少儿卫士</string>
+    <string name="start_protection">开始保护</string>
+    <string name="stop_protection">停止保护</string>
+    <string name="settings">设置</string>
+    <string name="about">关于</string>
+    <string name="posture_alert">检测到您在躺着玩手机，请注意保护视力！</string>
+    <string name="enable_sound">启用声音提醒</string>
+    <string name="enable_lock">启用自动锁屏</string>
+    <string name="sensitivity">检测灵敏度</string>
+    <string name="low">低</string>
+    <string name="medium">中</string>
+    <string name="high">高</string>
+    <string name="app_description">专为保护少年儿童视力健康而设计的应用</string>
+</resources>
